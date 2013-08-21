@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  meal_type: MyString
+  publish_date: 2013-08-20 11:01:32
+
+two:
+  meal_type: MyString
+  publish_date: 2013-08-20 11:01:32
